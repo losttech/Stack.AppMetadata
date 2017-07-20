@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<App>
+  <Window>
+    <Category>Development</Category>
+    <Category>Content Creation</Category>
+    <Role>Main</Role>
+    <Filter>
+      <ProcessFilter Match="Exact" Value="devenv"/>
+    </Filter>
+    <Layout CustomBorders="True"
+            CustomChrome="True"
+    />
+  </Window>
+</App>

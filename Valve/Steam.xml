@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<App>
+  <Window>
+    <Filter>
+      <ProcessFilter Match="Exact" Value="Steam"/>
+      <TitleFilter Match="Exact" Value="Steam"/>
+    </Filter>
+    <Layout MinWidth="940"
+            MinHeight="540"
+            CustomBorders="True"
+            CustomChrome="True"
+            HorizontalExpansion="1600"
+    />
+  </Window>
+  <Window>
+    <Category>IM</Category>
+    <Filter>
+      <ProcessFilter Match="Exact" Value="Steam"/>
+      <TitleFilter Match="Exact" Value="Friends"/>
+    </Filter>
+    <Layout MinWidth="240"
+            MinHeight="280"
+            CustomBorders="True"
+            CustomChrome="True"
+            HorizontalExpansion="280"
+    />
+  </Window>
+</App>

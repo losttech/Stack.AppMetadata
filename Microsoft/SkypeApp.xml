@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<App>
+  <Window>
+    <Category>IM</Category>
+    <Filter>
+      <ProcessFilter Match="Exact" Value="SkypeApp"/>
+    </Filter>
+    <Layout MinHeight="500"
+            MinWidth="350"
+            HorizontalExpansion="1600"
+    />
+  </Window>
+</App>
