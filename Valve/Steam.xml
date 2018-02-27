@@ -7,8 +7,8 @@
     </Filter>
     <Layout MinWidth="940"
             MinHeight="540"
-            CustomBorders="True"
-            CustomChrome="True"
+            CustomBorders="true"
+            CustomChrome="true"
             HorizontalExpansion="1600"
     />
   </Window>
@@ -20,8 +20,8 @@
     </Filter>
     <Layout MinWidth="240"
             MinHeight="280"
-            CustomBorders="True"
-            CustomChrome="True"
+            CustomBorders="true"
+            CustomChrome="true"
             HorizontalExpansion="280"
     />
   </Window>
