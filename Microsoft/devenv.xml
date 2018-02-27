@@ -7,8 +7,8 @@
     <Filter>
       <ProcessFilter Match="Exact" Value="devenv"/>
     </Filter>
-    <Layout CustomBorders="True"
-            CustomChrome="True"
+    <Layout CustomBorders="true"
+            CustomChrome="true"
     />
   </Window>
 </App>
